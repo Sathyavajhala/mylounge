@@ -1,0 +1,16 @@
+{
+    "id": 2,
+    "question": "No Questions to answer",
+    "questiontype": "error",
+    "user": "kesav",
+    "validOption": null,
+    "userSelOption": null,
+    "Option": [
+        {
+            "a": null,
+            "b": null,
+            "c": null,
+            "d": null
+        }
+    ]
+}

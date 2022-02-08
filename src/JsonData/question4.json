@@ -1,0 +1,16 @@
+{
+    "id": 3,
+    "question": "Which of these are Scripting Languages",
+    "questiontype": "error",
+    "user": "kesav",
+    "validOption": null,
+    "userSelOption": null,
+    "Option": [
+        {
+            "a": "Python",
+            "b": "HTML",
+            "c": "C#",
+            "d": "JavaScript"
+        }
+    ]
+ }
